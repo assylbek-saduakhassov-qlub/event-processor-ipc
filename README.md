@@ -14,4 +14,4 @@
 
 ## Event Log Format
 
-The `events_log.txt` file simulates a log of system events. Each line in the log corresponds to a specific event type and contains relevant information such as process IDs, memory size, file paths, or user details. The events are formatted as follows:
+The `events_log.txt` file simulates a log of system events. Each line in the log corresponds to a specific event type and contains relevant information such as process IDs, memory size, file paths, or user details.
